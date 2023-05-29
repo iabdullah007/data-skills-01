@@ -46,7 +46,7 @@ Pre-requisite is to have Python and Pipenv installed on the laptop. Follow below
 
 4. To run the Notebook locally, 
     ```
-    $ start-jupyter
+    $ make start-jupyter
     ```
 
 5. Above command will start the Jupyter and a browser window will be opened. You can see the list of notebooks. Open the notebook `DataAnalytics.ipynb`.
